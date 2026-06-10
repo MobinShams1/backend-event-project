@@ -1,0 +1,28 @@
+[
+  { 
+    "id": 1,
+    "path": "buzzing-city.jpg",
+    "caption": "People walking through a city buzzing with life at night."
+  },
+  {
+    "id": 2,
+    "path": "laptop-on-desk.jpg",
+    "caption": "A laptop on a desk."
+  },
+  {
+    "id": 3,
+    "path": "meeting-networking.jpg",
+    "caption": "A group of people meeting and networking."
+  },
+  {
+    "id": 4,
+    "path": "park.jpg",
+    "caption": "A park with a lake."
+  },
+  {
+    "id": 5,
+    "path": "women-coding.jpg",
+    "caption": "A group of women coding."
+  }
+
+]
