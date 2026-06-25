@@ -10,6 +10,7 @@ const __dirname = path.dirname(__filename);
 
 const app = express();
 
+
 app.use(bodyParser.json());
 app.use(express.static('public'));
 
@@ -21,7 +22,7 @@ app.use((req, res, next) => {
   );
   res.setHeader(
     'Access-Control-Allow-Headers',
-    'X-Requested-With, content-type, X-Username, X-UserId'  // ✅ اضافه کردن هدرهای جدید
+    'X-Requested-With, content-type, X-Username, X-UserId' 
   );
   next();
 });

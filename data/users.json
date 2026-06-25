@@ -8,5 +8,15 @@
     "email": "themobin2003@gmail.com",
     "password": "$2b$10$i2WjL.lkHgDrpGuKHptI/unt.cQeLl2w9xJxLuEDfp4yMH6xPfCWm",
     "createdAt": "2026-06-09T16:35:10.268Z"
+  },
+  {
+    "id": "1781106035215",
+    "firstName": "Ali",
+    "lastName": "Kazemi",
+    "fullName": "Ali Kazemi",
+    "username": "AliKazemi",
+    "email": "AliKazem@gmail.com",
+    "password": "$2b$10$52ZeNeeJ3.u3uUlPyQYduupfHCy4hYu1vAiDkncMviNcjJKDYjQC6",
+    "createdAt": "2026-06-10T15:40:35.215Z"
   }
 ]
